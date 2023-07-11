@@ -1,0 +1,21 @@
+argparse
+easydict
+h5py
+matplotlib
+numpy
+open3d==0.9
+opencv-python
+pyyaml
+scipy
+tensorboardX
+timm==0.4.5 
+tqdm
+transforms3d
+gcc,cuda 
+igl
+trimesh tensorboard plyfile open3d scikit-image python-mnist opencv-python av pykdtree ipdb
+Pip install https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl 
+pip install --no-index pytorch3d 
+pip install torch-scatter -f https://data.pyg.org/whl/torch-1.13.0+${CUDA}.html  
+Pip install  "git+https://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
+Pip install –no-index torch torchvision torchaudio

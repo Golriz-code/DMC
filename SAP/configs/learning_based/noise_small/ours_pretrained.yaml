@@ -1,0 +1,5 @@
+inherit_from: configs/learning_based/noise_small/ours.yaml
+generation:
+  generation_dir: generation_pretrained_poinTr
+test:
+  model_file: C:/Users/Golriz/OneDrive - polymtl.ca/Desktop/SAP/shape_as_points-main/shape_as_points-main/models/model_best.pt
