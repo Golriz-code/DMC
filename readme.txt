@@ -1,1 +1,1 @@
-You only need to modify num_pred and num_query in the config. num_pred stands for the number of points you want to produce, and num_query stands for the number of coarse points. And we use a FoldingNet to upsample the coarse point clouds, so it is better to guarantee num_pred/num_query is a square (like 4, 16, 36, 64 ...).
+
